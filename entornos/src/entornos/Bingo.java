@@ -20,6 +20,8 @@ public class Bingo {
 		carton(carton); //Funcion donde creamos el carton
 		ordenar(carton); //Funcion para ordenar la matriz por columnas
 		eliminar(carton); //Funcion para eliminar los numeros hasta que queden 15
+		
+		System.out.println("Carton de bingo :)");
 
 
 		//Mostramos la matriz
